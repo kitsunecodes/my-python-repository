@@ -1,0 +1,5 @@
+# CD to the folder with your index.html file first
+
+python -m http.server
+
+# Change as needed. This might not work the same for everyone.
