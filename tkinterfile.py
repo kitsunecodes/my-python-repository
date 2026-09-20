@@ -6,7 +6,7 @@ def print_hi():
   print("hi")
 
 root = tk.Tk
-root.Title = "Teh epik duck is coming! (yes i know that old roblox thing)"
+root.Title = "Teh epik duck is coming!"
 
 btn = tk.Button(root, text="press me", command=print_hi)
 btn.pack(expand=True)
